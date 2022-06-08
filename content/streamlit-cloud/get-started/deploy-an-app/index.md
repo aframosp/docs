@@ -50,7 +50,7 @@ https://share.streamlit.io/[user name]/[repo name]/[branch name]/[app path]
 For example:
 
 ```python
-http://share.streamlit.io/streamlit/demo-self-driving/master/streamlit_app.py
+http://share.streamlit.io/streamlit/demo-self-driving/main/streamlit_app.py
 ```
 
-If your app has name `streamlit_app.py` and your branch is `master`, your app is also given a shortened URL of the form `https://share.streamlit.io/[user name]/[repo name]`. The only time you need the full URL is when you deployed multiple apps from the same repo. So you can also reach the example URL above at the short URL [https://share.streamlit.io/streamlit/demo-self-driving](https://share.streamlit.io/streamlit/demo-self-driving).
+If your app has name `streamlit_app.py` and your branch is `main`, your app is also given a shortened URL of the form `https://share.streamlit.io/[user name]/[repo name]`. The only time you need the full URL is when you deployed multiple apps from the same repo. So you can also reach the example URL above at the short URL [https://share.streamlit.io/streamlit/demo-self-driving](https://share.streamlit.io/streamlit/demo-self-driving).
